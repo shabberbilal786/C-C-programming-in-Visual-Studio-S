@@ -1,0 +1,6 @@
+Name   Roll#  Dept  GPA
+sara    1      CS   3.0
+john    2      CS   3.0
+Ali     3      CS   3.5
+Ahmer   4      CS   2.8
+Junaid  5      CS   2.4
